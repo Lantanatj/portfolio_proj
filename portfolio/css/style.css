@@ -1,0 +1,12 @@
+body{
+	background-color:grey;
+
+}
+.box{
+	width:100px;
+	height:100px;
+	border:1px solid green;
+	background-color:lightgreen;
+	transform:skew(20deg, 45deg);
+	 
+}

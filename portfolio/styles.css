@@ -1,0 +1,31 @@
+*{
+	box-sizing: border-box;
+}
+.carousel-indicators li{width:15px!important;height:15px!important;border-radius:50%;}
+h3{text-align:center;}
+.col h5{text-align:center;padding:2px;}
+.rounded-circle{margin:auto;}
+.carousel-caption{width:50%;height:50%;margin:auto;}
+.page{text-align:center;}
+.carou2{position:relative;left:0;top:100%;}
+.carousel-indicators .active{background-color:gray;}
+.btn-sm{min-width:260px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;
